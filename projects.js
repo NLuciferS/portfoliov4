@@ -11,7 +11,7 @@ window.portfolioData = {
     email: "sapkotaaayush208@gmail.com",
     universityEmail: "u2473304@unimail.hud.ac.uk",
     cv: "./assets/Aayush_Sapkota_CV.pdf",
-    photo: "./assets/aayush-photo.jpeg",
+    photo: "./assets/aayush-photo-v2.jpeg",
     heroBadges: [
       "Cybersecurity",
       "Python",
